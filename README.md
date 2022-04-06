@@ -1,4 +1,4 @@
-# Nrian Swanberg's portfolio
+# Brian Swanberg's portfolio
 
 Welcome!!
 
