@@ -8,3 +8,5 @@ Here I used:
 - TypeScript (converting from JavaScript)
 - Tailwind CSS
 - Vercel (for deployment)
+
+Personal note: forgot to add PostCSS and autoprefixer from template
