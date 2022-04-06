@@ -1,0 +1,180 @@
+@import url("./fonts/dyslexiabold/stylesheet.css");
+@import url("./fonts/dyslexianormal/stylesheet.css");
+@import url("./fonts/oswald/stylesheet.css");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  height: 100%;
+  display: grid;
+}
+
+#__next {
+  height: 100%;
+  grid-row: 1/-1;
+  grid-column: 1/-1;
+}
+
+
+:root {
+  --background: white;
+  --background-secondary: theme("colors.gray.200");
+  --textbox-background: theme("colors.slate.300");
+
+  --fonting: black;
+  --fontingsecondary: black;
+
+  --accent-dark: theme("colors.fuchsia.700");
+  --accent-medium: theme("colors.fuchsia.700");
+  --accent-light: theme("colors.fuchsia.500");
+
+  --primary-dark: theme("colors.gray.900");
+  --primary-medium: theme("colors.gray.700");
+  --primary-light: theme("colors.gray.500");
+  --fonts: "Times New Roman";
+}
+
+
+
+[data-theme="reworded"] {
+
+  --background-secondary: theme("colors.gray.800");
+  --textbox-background: gray;
+
+  --fonting: white;
+  --fontingsecondary: white;
+  --background: theme("colors.night");
+
+  --accent-dark: theme("colors.fuchsia.700");
+  --accent-medium: theme("colors.fuchsia.700");
+  --accent-light: theme("colors.fuchsia.500");
+
+  --primary-dark: theme("colors.gray.300");
+  --primary-medium: theme("colors.gray.200");
+  --primary-light: theme("colors.gray.100");
+  --fonts: "OpenDyslexic 3";
+}
+
+
+[data-theme="current self"] {
+  --background: theme("colors.sky.100");
+  --background-secondary: theme("colors.sky.200");
+  --textbox-background: gray;
+
+  --fonting: black;
+  --fontingsecondary: theme("colors.green.700");
+
+  --accent-dark: theme("colors.green.700");
+  --accent-medium: theme("colors.fuchsia.700");
+  --accent-light: theme("colors.fuchsia.500");
+
+  --primary-dark: theme("colors.gray.300");
+  --primary-medium: theme("colors.gray.200");
+  --primary-light: theme("colors.gray.100");
+  --fonts: "Oswald";
+}
+
+
+[data-theme="university (minerva)"] {
+  --background: black;
+  --background-secondary: theme("colors.slate.700");
+  --textbox-background: gray;
+
+  --fonting: white;
+  --fontingsecondary: theme("colors.minerva");
+
+  --accent-dark: theme("colors.minerva");
+
+  --primary-dark: theme("colors.gray.300");
+  --primary-medium: theme("colors.gray.200");
+  --primary-light: theme("colors.gray.100");
+  --fonts: "Calibri";
+}
+
+
+[data-theme="high school (go sabers!)"] {
+  --background: theme("colors.slate.800");
+  --background-secondary: black;
+  --textbox-background: gray;
+
+  --fonting: white;
+  --fontingsecondary: theme("colors.vegas");
+
+  --accent-dark: theme("colors.vegas");
+  --accent-medium: theme("colors.fuchsia.700");
+  --accent-light: theme("colors.fuchsia.500");
+
+  --primary-dark: theme("colors.gray.300");
+  --primary-medium: theme("colors.gray.200");
+  --primary-light: theme("colors.gray.100");
+  --fonts: "Georgia";
+}
+
+[data-theme="brian in kindergarten"] {
+  --background: theme("colors.indigo.900");
+  --background-secondary: theme("colors.indigo.700");
+  --textbox-background: theme("colors.indigo.700");
+
+  --fonting: white;
+  --fontingsecondary: theme("colors.orange.400");
+
+  --accent-dark: theme("colors.orange.400");
+  --accent-medium: theme("colors.fuchsia.700");
+  --accent-light: theme("colors.fuchsia.500");
+
+  --primary-dark: theme("colors.gray.300");
+  --primary-medium: theme("colors.gray.200");
+  --primary-light: theme("colors.gray.100");
+  --fonts: "Font Sans";
+}
+
+
+[data-theme="stealth"] {
+  --background: theme("colors.black");
+  --background-secondary: theme("colors.gray.800");
+  --textbox-background: gray;
+
+  --fonting: white;
+  --fontingsecondary: theme("colors.reworded");
+
+  --accent-dark: theme("colors.reworded");
+  --accent-medium: theme("colors.fuchsia.700");
+  --accent-light: theme("colors.fuchsia.500");
+
+  --primary-dark: theme("colors.gray.300");
+  --primary-medium: theme("colors.gray.200");
+  --primary-light: theme("colors.gray.100");
+  --fonts: "Georgia";
+}
+
+
+
+[data-theme="pink"] {
+  --background: theme("colors.night");
+  --background-secondary: theme("colors.gray.800");
+  --textbox-background: gray;
+
+  --accent-dark: theme("colors.pinky");
+  --accent-medium: theme("colors.pink.700");
+  --accent-light: theme("colors.pink.500");
+
+
+  --fonting: white;
+  --fontingsecondary: theme("colors.pinky");
+
+  --primary-dark: theme("colors.gray.300");
+  --primary-medium: theme("colors.gray.200");
+  --primary-light: theme("colors.gray.100");
+  --fonts: 'Open Sans';
+}
+
+
+@layer utilities {
+    .overflow-hidden {
+      -webkit-mask-image: -webkit-radial-gradient(white, black);
+    }
+  }
+  
