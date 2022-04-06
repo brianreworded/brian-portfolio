@@ -21,7 +21,7 @@ const Home: NextPage = () => {
           <br/>
           <br/>
           
-          Currently, I&apos;m building <a href="reworded.io"><span className="font-dyslexia text-reworded">reworded</span> </a>, the premier AI-based reading comprehension assistant.
+          Currently, I&apos;m building <a href="https://www.reworded.io"><span className="font-dyslexia text-reworded">reworded</span> </a>, the premier AI-based reading comprehension assistant.
           <br/>
           <br/>
           My goal: improve the quality of life of 1 million people by May 2031.
