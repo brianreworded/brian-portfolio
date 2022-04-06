@@ -6,5 +6,5 @@ Here I used:
 
 - NextJS (similar to React)
 - TypeScript (converting from JavaScript)
-- TailwindCSS
+- Tailwind CSS
 - Vercel (for deployment)
