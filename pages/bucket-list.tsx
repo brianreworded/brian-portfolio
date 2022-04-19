@@ -25,7 +25,7 @@ const BucketList: NextPage = () => {
         <li className='mt-3 line-through'> &bull; See the Sequoia trees</li>
         <li className='mt-3'> &bull; Visit Jerusalem</li>  
         <li className='mt-3 line-through'> &bull; See Coldplay live in concert</li>
-        <li className='mt-3'> &bull; Visit Goiânia</li>
+        <li className='mt-3'> &bull; Spend a week in Goiânia</li>
         <li className='mt-3 line-through'>&bull; Live in Korea</li>
         <li className='mt-3 line-through'>&bull; Live vegan and largely sugar-free for 10 days</li>
         <li className='mt-3 line-through'>&bull; Visit the Great Pyramid of Giza (inspired by <span className='italic'>The Alchemist</span>)</li>
