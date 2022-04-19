@@ -13,7 +13,7 @@ const BucketList: NextPage = () => {
 
       </h1>
 
-      <p className= 'text-xl text-center'> Most of bucket list was achieved during college (Thank you Minerva!)</p>
+      <p className= 'text-xl text-center'> Most of my bucket list was achieved during college (Thank you Minerva!)</p>
 
       
 
