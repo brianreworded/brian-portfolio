@@ -17,7 +17,7 @@ const Home: NextPage = () => {
           I&apos;m a data scientist and software engineer interested in leveraging data to help improve quality of life, whether it would be through biotechnology or education. 
           <br/>
           <br/>
-          Previously I double-majored in Data Science and Biology at Minerva University, an innovative university where students typically study in 7 countries over 4 years.
+          Previously I double-majored in Data Science and Biology at Minerva University, an innovative college where students typically study in 7 countries over 4 years.
           <br/>
           <br/>
           
