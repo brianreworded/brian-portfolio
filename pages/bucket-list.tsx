@@ -29,8 +29,8 @@ const BucketList: NextPage = () => {
         <li className='mt-3 line-through'>&bull; Live in Korea</li>
         <li className='mt-3 line-through'>&bull; Live vegan and largely sugar-free for 10 days</li>
         <li className='mt-3 line-through'>&bull; Visit the Great Pyramid of Giza (inspired by <span className='italic'>The Alchemist</span>)</li>
-        <li className='mt-3'> &bull; Visit Istanbul</li>   
-        <li className='mt-3'> &bull; Travel to Pakistan</li>   
+        <li className='mt-3'> &bull; Explore Istanbul with friends from Minerva</li>   
+        <li className='mt-3'> &bull; Fly to Pakistan for a friend&apos;s wedding</li>   
         <li className='mt-3 line-through'>&bull; Stay in a foreign country where most people do not speak the language and I know no one for more than a week </li>
         <li className='mt-3 '> &bull; Learn the song &ldquo;O&rdquo; on piano</li>
         <li className='mt-3 line-through'>&bull; Walk inside the Library of Alexandria</li>
