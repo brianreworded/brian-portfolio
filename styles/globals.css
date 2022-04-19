@@ -25,7 +25,7 @@ body {
   --textbox-background: theme("colors.slate.300");
 
   --fonting: black;
-  --fontingsecondary: theme("colors.slate.700");
+  --fontingsecondary: theme("colors.slate.500");
 
   --accent-dark: theme("colors.fuchsia.700");
   --accent-medium: theme("colors.fuchsia.700");
