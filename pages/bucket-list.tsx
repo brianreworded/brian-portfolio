@@ -36,8 +36,8 @@ const BucketList: NextPage = () => {
         <li className='mt-3 line-through'>&bull; Walk inside the Library of Alexandria</li>
         <li className='mt-3'>&bull; Become a professional pickleball player</li>
         <li className='mt-3 line-through'>&bull; Try ice cream and pizza in Italy</li>
-        <li className='mt-3'> &bull; Re-create the best chicken shawarma from Hyderabad</li>  
-        <li className='mt-3'>&bull; Become pescatarian</li>
+        <li className='mt-3'> &bull; Re-create the best chicken shawarma from Hyderabad </li>  
+        <li className='mt-3'>&bull; Become pescatarian for 1 year</li>
         <li className='mt-3 '> &bull; Become fluent in Spanish</li>
         <li className='mt-3 '> &bull; Celebrate the miracle that is life at Machu Picchu</li>
       </ul>
