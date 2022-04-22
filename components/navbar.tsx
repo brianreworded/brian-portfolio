@@ -9,14 +9,13 @@ import { useTheme } from 'next-themes'
 const themes = [
     { name: 'Professional' },
     { name: 'Reworded' },
-    { name: 'Current Self' },
-    { name: 'University (Minerva)' },
     { name: 'High School (Go Sabers!)' },
     { name: 'Brian in Kindergarten' },
-    { name: 'Stealth' },
-    { name: 'Pink' },
+
   ]
 
+  //    { name: 'Stealth' },
+ // { name: 'Pink' },
 const navigation = [{ name: 'Home', href: '/' }, { name: 'Bucket List', href: '/bucket-list' },{ name: 'Photography', href: 'https://brianswanberg.wixsite.com/photos' }]; 
 
 export const Navbar = () => {
