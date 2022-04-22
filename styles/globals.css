@@ -27,9 +27,9 @@ body {
   --fonting: black;
   --fontingsecondary: theme("colors.blue.500");
 
-  --accent-dark: theme("colors.fuchsia.700");
-  --accent-medium: theme("colors.fuchsia.700");
-  --accent-light: theme("colors.fuchsia.500");
+  --accent-dark: theme("colors.blue.500");
+  --accent-medium: theme("colors.blue.500");
+  --accent-light: theme("colors.blue.500");
 
   --primary-dark: theme("colors.gray.900");
   --primary-medium: theme("colors.gray.700");
@@ -45,12 +45,12 @@ body {
   --textbox-background: gray;
 
   --fonting: white;
-  --fontingsecondary: white;
+  --fontingsecondary: theme("colors.pinky");
   --background: theme("colors.night");
 
-  --accent-dark: theme("colors.fuchsia.700");
-  --accent-medium: theme("colors.fuchsia.700");
-  --accent-light: theme("colors.fuchsia.500");
+  --accent-dark: theme("colors.pinky");
+  --accent-medium: theme("colors.pinky");
+  --accent-light: theme("colors.pinky");
 
   --primary-dark: theme("colors.gray.300");
   --primary-medium: theme("colors.gray.200");
@@ -128,7 +128,7 @@ body {
   --primary-dark: theme("colors.gray.300");
   --primary-medium: theme("colors.gray.200");
   --primary-light: theme("colors.gray.100");
-  --fonts: "Font Sans";
+  --fonts: "Oswald";
 }
 
 
