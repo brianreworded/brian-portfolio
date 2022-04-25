@@ -1,4 +1,4 @@
-# Brian Swanberg's portfolio
+# Brian Swanberg's home website
 
 Welcome!!
 
