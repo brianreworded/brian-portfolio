@@ -14,7 +14,7 @@ const Home: NextPage = () => {
       </h1>
 
       <p className='mx-[15%] text-xl sm-text-m'>
-          I&apos;m a data scientist and software engineer interested in leveraging data to help improve quality of life, whether through biotechnology, health care, or education. I have a product-oriented focus, and recently, I have focused on innovations that quantify natural language.
+          I&apos;m a data scientist and software engineer interested in leveraging data to help improve quality of life. I have a product-oriented focus, and recently, I have focused on innovations that quantify natural language.
           <br/>
           <br/>
           Previously I double-majored in Data Science and Biology at <a href="https://www.minerva.edu/undergraduate-program/" className='text-th-fontingsecondary hover:text-reworded'> Minerva University</a>, an innovative college where students typically study in 7 countries over 4 years.
