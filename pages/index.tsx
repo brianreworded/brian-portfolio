@@ -21,9 +21,9 @@ const Home: NextPage = () => {
           <br/>
           <br/>
           
-          Currently, I&apos;m building <a href="https://www.reworded.io"><span className="font-dyslexia text-reworded hover:text-th-fontingsecondary">reworded</span> </a>, the premier AI-based reading comprehension assistant. I also created other products, like a <a href="https://reduction.ai" className="text-th-fontingsecondary hover:text-reworded">multilingual text shortener</a> for ESL college students and a <a href="https://nointextcitations.herokuapp.com/" className="text-th-fontingsecondary hover:text-reworded">specialized word counter</a> for my college classmates at Minerva.
-          <br/>
-          <br/>
+          Currently, I&apos;m a full-stack data scientist at <a href="https://www.mentra.me" className='text-th-fontingsecondary hover:text-reworded'>Mentra</a>, whose mission is to tap into the potential of 1 billion neurodivergents worldwide. I&apos;m also building a premium multilingual text shortener in stealth, which is currently under a test period in schools. Previously I created <a href="https://www.reworded.io"><span className="font-dyslexia text-reworded hover:text-th-fontingsecondary">reworded</span> </a>, the premier AI-based reading comprehension assistant, along with many other NLP-focused or decision-inference applications. 
+        <br/>  
+        <br/>
           My goal: improve the quality of life of 1 million people by May 2031.
 
           <br/>
