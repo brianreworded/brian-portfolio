@@ -1,4 +1,4 @@
-# Brian Swanberg's home website
+# Brian Swanberg's [home website](https://brianswanberg.xyz)
 
 Welcome!!
 
