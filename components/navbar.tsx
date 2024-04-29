@@ -16,7 +16,7 @@ const themes = [
 
   //    { name: 'Stealth' },
  // { name: 'Pink' },
-const navigation = [{ name: 'Home', href: '/' }, { name: 'Bucket List', href: '/bucket-list' },{ name: 'Photography', href: 'https://brianswanberg.wixsite.com/photos' }]; 
+const navigation = [{ name: 'Home', href: '/' }, { name: 'Startup Lessons', href: '/startup-lessons' }, { name: 'Bucket List', href: '/bucket-list' },{ name: 'Photography', href: 'https://brianswanberg.wixsite.com/photos' }]; 
 
 export const Navbar = () => {
 
