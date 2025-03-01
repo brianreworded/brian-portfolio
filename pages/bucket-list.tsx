@@ -38,7 +38,7 @@ const BucketList: NextPage = () => {
         <li className='mt-3'> &bull; Re-create the best chicken shawarma from Hyderabad </li>  
         <li className='mt-3'>&bull; Become pescatarian for 1 year</li>
         <li className='mt-3 '> &bull; Become fluent in Spanish</li>
-        <li className='mt-3 '> &bull; Celebrate the miracle that is life at Machu Picchu</li>
+        <li className='mt-3 line-through'> &bull; Celebrate the miracle that is life at Machu Picchu</li>
       </ul>
 
       </div>
